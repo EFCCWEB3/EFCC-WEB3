@@ -28,6 +28,7 @@ Daijobu Beter tester
 - [Noya](Not yet out) 
 - [Loopfi](Not yet out) 
 - [Symbiotic](Not yet out) 
+
 I've done QA testing for :
 - [SNapIt](https://lp.snpit.xyz/) 
 - [Strawberry wallet](https://scramberry.io/wallet/)
