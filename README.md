@@ -23,6 +23,7 @@ Daijobu Beter tester
 - [Curves [M]](https://github.com/code-423n4/2024-01-curves-findings/issues/647) 
 - [Redacted Cartel](https://github.com/orgs/code-423n4/projects/24/views/1?pane=issue&itemId=50228086&issue=code-423n4%7Credacted-bug-bounty%7C7) 
 *Participated as team*
+
 - [Triatforge [H]](https://github.com/code-423n4/2024-07-traitforge-findings/issues/213) 
 - [Traitforge [M]](https://github.com/code-423n4/2024-07-traitforge-findings/issues/212) 
 - [Noya](Not yet out) 
