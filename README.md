@@ -25,17 +25,19 @@ Daijobu Beter tester
 - [Redacted Cartel[H]](https://github.com/code-423n4/redacted-bug-bounty/issues/7) 
 - [Zetachain[LOW]](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/findings/345?status=new%2Cdisputed%2Crejected%2Cduplicate%2Cconfirmed%2Cacknowledged%2Cfixed&with_events=false&limit=20&created_by=0xJacobs) 
 - [Zetachain[Info]](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/findings/274?status=new%2Cdisputed%2Crejected%2Cduplicate%2Cconfirmed%2Cacknowledged%2Cfixed&with_events=false&limit=20&created_by=0xJacobs) 
-
+- [Mev-commit 
 *Participated as team*
 - [Triatforge [H]](https://github.com/code-423n4/2024-07-traitforge-findings/issues/213) 
 - [Traitforge [M]](https://github.com/code-423n4/2024-07-traitforge-findings/issues/212) 
-- [Noya](Not yet out) 
-- [Loopfi](Not yet out) 
-- [Symbiotic](Not yet out) 
-
+- [Noya [M]](https://github.com/code-423n4/2024-04-noya-findings/issues/1488) 
+- [Loopfi [M]](https://github.com/code-423n4/2024-07-loopfi-findings/issues/70) 
+- [Loopfi [M]](https://github.com/code-423n4/2024-07-loopfi-findings/issues/204)
+- [Noya [M]](https://github.com/code-423n4/2024-04-noya-findings/issues/1352)
+- [Zksync [M]](Not yet out because it private comp)
+- Mev-commit [
 I've done QA testing for :
 - [SNapIt](https://lp.snpit.xyz/) 
 - [Strawberry wallet](https://scramberry.io/wallet/)
 
 
-Profile still on development!!!. Last GitHub account couldn't be recovered. 
+
